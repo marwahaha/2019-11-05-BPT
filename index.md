@@ -1,11 +1,11 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 venue: "TribalDATA / Northern Arizona University"        # brief name of host site without address (e.g., "Euphoric State University")
-address: "TBD"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
+address: "NAU International Pavilion, Bldg. 50A, First Floor, 800 S. Beaver Street, Flagstaff, AZ"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
-latitude: "45"     # decimal latitude of workshop venue (use https://www.latlong.net/)
-longitude: "-1"    # decimal longitude of the workshop venue (use https://www.latlong.net)
+latitude: "35.189540"     # decimal latitude of workshop venue (use https://www.latlong.net/)
+longitude: "-111.653900"    # decimal longitude of the workshop venue (use https://www.latlong.net)
 humandate: "Nov 5-7, 2019"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "9:00am - 4:30pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2019-11-05      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
